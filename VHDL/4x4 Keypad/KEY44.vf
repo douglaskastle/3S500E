@@ -1,0 +1,27 @@
+////////////////////////////////////////////////////////////////////////////////
+// Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.
+////////////////////////////////////////////////////////////////////////////////
+//   ____  ____ 
+//  /   /\/   / 
+// /___/  \  /    Vendor: Xilinx 
+// \   \   \/     Version : 12.2
+//  \   \         Application : sch2hdl
+//  /   /         Filename : KEY44.vf
+// /___/   /\     Timestamp : 10/17/2012 11:27:21
+// \   \  /  \ 
+//  \___\/\___\ 
+//
+//Command: sch2hdl -intstyle ise -family spartan3e -verilog "E:/Program/XC3S250/VHDL/4x4 Keypad/KEY44.vf" -w "E:/Program/XC3S250/VHDL/4x4 Keypad/KEY44.sch"
+//Design Name: KEY44
+//Device: spartan3e
+//Purpose:
+//    This verilog netlist is translated from an ECS schematic.It can be 
+//    synthesized and simulated, but it should not be modified. 
+//
+`timescale 1ns / 1ps
+
+module KEY44();
+
+   
+   
+endmodule

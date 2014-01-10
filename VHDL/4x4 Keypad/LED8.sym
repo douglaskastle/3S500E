@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<symbol version="7" name="LED8">
+    <symboltype>BLOCK</symboltype>
+    <timestamp>2012-10-17T5:49:19</timestamp>
+    <pin polarity="Input" x="0" y="-608" name="RESET" />
+    <pin polarity="Input" x="0" y="-544" name="ClockScan" />
+    <pin polarity="Input" x="0" y="-480" name="LED1(3:0)" />
+    <pin polarity="Input" x="0" y="-416" name="LED2(3:0)" />
+    <pin polarity="Input" x="0" y="-352" name="LED3(3:0)" />
+    <pin polarity="Input" x="0" y="-288" name="LED4(3:0)" />
+    <pin polarity="Input" x="0" y="-224" name="LED5(3:0)" />
+    <pin polarity="Input" x="0" y="-160" name="LED6(3:0)" />
+    <pin polarity="Input" x="0" y="-96" name="LED7(3:0)" />
+    <pin polarity="Input" x="0" y="-32" name="LED8(3:0)" />
+    <pin polarity="Output" x="416" y="-608" name="light(7:0)" />
+    <pin polarity="Output" x="416" y="-320" name="LEDOut(7:0)" />
+    <pin polarity="Output" x="416" y="-32" name="DigitSelect(2:0)" />
+    <graph>
+        <attrtext style="alignment:BCENTER;fontsize:56;fontname:Arial" attrname="SymbolName" x="208" y="-648" type="symbol" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-608" type="pin RESET" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-544" type="pin ClockScan" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-480" type="pin LED1(3:0)" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-416" type="pin LED2(3:0)" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-352" type="pin LED3(3:0)" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-288" type="pin LED4(3:0)" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-224" type="pin LED5(3:0)" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-160" type="pin LED6(3:0)" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-96" type="pin LED7(3:0)" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-32" type="pin LED8(3:0)" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="344" y="-608" type="pin light(7:0)" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="344" y="-320" type="pin LEDOut(7:0)" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="344" y="-32" type="pin DigitSelect(2:0)" />
+        <rect width="288" x="64" y="-640" height="640" />
+        <line x2="0" y1="-608" y2="-608" x1="64" />
+        <line x2="0" y1="-544" y2="-544" x1="64" />
+        <rect width="64" x="0" y="-492" height="24" />
+        <line x2="0" y1="-480" y2="-480" x1="64" />
+        <rect width="64" x="0" y="-428" height="24" />
+        <line x2="0" y1="-416" y2="-416" x1="64" />
+        <rect width="64" x="0" y="-364" height="24" />
+        <line x2="0" y1="-352" y2="-352" x1="64" />
+        <rect width="64" x="0" y="-300" height="24" />
+        <line x2="0" y1="-288" y2="-288" x1="64" />
+        <rect width="64" x="0" y="-236" height="24" />
+        <line x2="0" y1="-224" y2="-224" x1="64" />
+        <rect width="64" x="0" y="-172" height="24" />
+        <line x2="0" y1="-160" y2="-160" x1="64" />
+        <rect width="64" x="0" y="-108" height="24" />
+        <line x2="0" y1="-96" y2="-96" x1="64" />
+        <rect width="64" x="0" y="-44" height="24" />
+        <line x2="0" y1="-32" y2="-32" x1="64" />
+        <rect width="64" x="352" y="-620" height="24" />
+        <line x2="416" y1="-608" y2="-608" x1="352" />
+        <rect width="64" x="352" y="-332" height="24" />
+        <line x2="416" y1="-320" y2="-320" x1="352" />
+        <rect width="64" x="352" y="-44" height="24" />
+        <line x2="416" y1="-32" y2="-32" x1="352" />
+    </graph>
+</symbol>
