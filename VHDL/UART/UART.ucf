@@ -1,0 +1,28 @@
+NET "clk" LOC = "P184 " ;
+
+NET "rst" LOC = "P101 " ;
+
+NET "txd"  LOC = "p76"  ;
+NET "rxd"  LOC = "p75"  ;
+
+NET "en[0]"  LOC = "p107"  ;
+NET "en[1]"  LOC = "p109"  ;
+NET "en[2]"  LOC = "p113"  ;
+NET "en[3]"  LOC = "p116"  ;
+
+
+NET "seg_data[0]"  LOC = "p119"  ;
+NET "seg_data[1]"  LOC = "p115"  ;
+NET "seg_data[2]"  LOC = "p112"  ;
+NET "seg_data[3]"  LOC = "p108"  ;
+NET "seg_data[4]"  LOC = "p106"  ;
+NET "seg_data[5]"  LOC = "p100"  ;
+NET "seg_data[6]"  LOC = "p98"  ;
+NET "seg_data[7]"  LOC = "p96"  ;
+
+
+
+
+
+
+
