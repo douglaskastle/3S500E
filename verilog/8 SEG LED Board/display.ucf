@@ -1,0 +1,18 @@
+NET "clk"  LOC = "P184"  ;
+
+NET "sel[0]"  LOC ="P116"  ;
+NET "sel[1]"  LOC = "P113"  ;
+NET "sel[2]"  LOC = "P109"   ;
+NET "sel[3]"  LOC = "P107" ;
+
+NET "nrst"  LOC = "P101"  ;
+
+NET "seg[0]"  LOC = "p98"   ;
+NET "seg[1]"  LOC = "p100"  ;
+NET "seg[2]"  LOC ="p106"    ;
+NET "seg[3]"  LOC ="p108"  ;
+NET "seg[4]"  LOC = "p112"  ;
+NET "seg[5]"  LOC = "p115"   ;
+NET "seg[6]"  LOC = "p119"  ;
+
+# PlanAhead Generated IO constraints 
