@@ -1,0 +1,7 @@
+NET "clk"  LOC = "P184"  ;
+NET "led1[0]"  LOC = "P68"  ;
+NET "led1[1]"  LOC = "P78"  ;
+NET "led1[2]"  LOC = "P83"  ;
+NET "led1[3]"  LOC = "P89"  ;
+#NET "clk2"  LOC = "p66"  ;
+#NET "nrst"  LOC = "p69"  ;
