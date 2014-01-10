@@ -1,0 +1,30 @@
+NET "CLK"  LOC = "p184"  ;
+
+NET "led[0]"  LOC = "p68"  ;
+NET "led[1]"  LOC = "p78"  ;
+NET "led[2]"  LOC = "p83"  ;
+NET "led[3]"  LOC = "p89"  ;
+
+NET "RESET"  LOC = "p101"  ;
+
+NET "DATA[0]"  LOC = "p75"  ;
+NET "DATA[1]"  LOC = "p76"  ;
+NET "DATA[2]"  LOC = "p69"  ;
+NET "DATA[3]"  LOC = "p74"  ;
+NET "DATA[4]"  LOC = "p64"  ;
+NET "DATA[5]"  LOC = "p65"  ;
+NET "DATA[6]"  LOC = "p62"  ;
+NET "DATA[7]"  LOC = "p63"  ;
+
+# PlanAhead Generated IO constraints 
+
+NET "CLK" IOSTANDARD = LVCMOS33;
+
+NET "DATA[0]"   PULLUP;
+NET "DATA[1]"   PULLUP;
+NET "DATA[2]"   PULLUP;
+NET "DATA[3]"   PULLUP;
+NET "DATA[4]"   PULLUP;
+NET "DATA[5]"   PULLUP;
+NET "DATA[6]"   PULLUP;
+NET "DATA[7]"   PULLUP;
