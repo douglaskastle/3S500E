@@ -1,0 +1,27 @@
+NET "GCLKP1"  LOC = "P184"  ;
+
+NET "DigitSelect[3]"  LOC ="P116"  ;
+NET "DigitSelect[2]"  LOC = "P113"  ;
+NET "DigitSelect[1]"  LOC = "P109"   ;
+NET "DigitSelect[0]"  LOC = "P107" ;
+
+NET "RESET"  LOC = "P101"  ;
+
+#NET "LEDOut[0]"  LOC = "p63"   ;
+#NET "LEDOut[1]"  LOC = "p67"  ;
+#NET "LEDOut[2]"  LOC ="p70"    ;
+#NET "LEDOut[3]"  LOC ="p74"  ;
+#NET "LEDOut[4]"  LOC = "p76"  ;
+#NET "LEDOut[5]"  LOC = "p81"   ;
+#NET "LEDOut[6]"  LOC = "p83"  ;
+
+NET "LEDOut[0]"  LOC = "p119"  ;
+NET "LEDOut[1]"  LOC = "p115"  ;
+NET "LEDOut[2]"  LOC = "p112"  ;
+NET "LEDOut[3]"  LOC = "p108"  ;
+NET "LEDOut[4]"  LOC = "p106"  ;
+NET "LEDOut[5]"  LOC = "p100"  ;
+NET "LEDOut[6]"  LOC = "p98"  ;
+NET "LEDOut[7]"  LOC = "p96"  ;
+
+# PlanAhead Generated IO constraints 
