@@ -1,0 +1,23 @@
+NET "CLK"  LOC = "P184"  ;
+
+NET "led[0]"  LOC = "P68"  ;
+NET "led[1]"  LOC = "P78"  ;
+NET "led[2]"  LOC = "P83"  ;
+NET "led[3]"  LOC = "P89"  ;
+
+NET "RSTn"  LOC = "P101"  ;
+
+NET "SPI_In"  LOC = "p75"  ;
+NET "SPI_Out[0]"  LOC = "p76"  ;
+NET "SPI_Out[1]"  LOC = "p69"  ;
+NET "SPI_Out[2]"  LOC = "p74"  ;
+
+
+# PlanAhead Generated IO constraints 
+
+NET "clk" IOSTANDARD = LVCMOS33;
+
+NET "SPI_In"   PULLUP;
+NET "SPI_Out[0]"   PULLUP;
+NET "SPI_Out[1]"   PULLUP;
+NET "SPI_Out[2]"  PULLUP;

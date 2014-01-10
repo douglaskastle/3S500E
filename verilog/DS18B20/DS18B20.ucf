@@ -1,0 +1,20 @@
+NET "CLOCK_50" LOC = "P184" ;
+NET "Q_KEY" LOC = "P101" ;
+
+NET "DS18B20"  LOC = "p126"  ;
+
+NET "SEG7_SEL[0]"  LOC = "p107"   ;
+NET "SEG7_SEL[1]"  LOC = "p109"    ;
+NET "SEG7_SEL[2]"  LOC = "p113"     ;
+NET "SEG7_SEL[3]"  LOC =  "p116"  ;
+
+NET "SEG7_SEG[0]"  LOC ="p119"     ;
+NET "SEG7_SEG[1]"  LOC = "p115"    ;
+NET "SEG7_SEG[2]"  LOC ="p112"      ;
+NET "SEG7_SEG[3]"  LOC ="p108"    ;
+NET "SEG7_SEG[4]"  LOC = "p106"   ;
+NET "SEG7_SEG[5]"  LOC = "p100"  ;
+NET "SEG7_SEG[6]"  LOC = "p98"  ;
+NET "SEG7_SEG[7]"  LOC = "p96"   ;
+
+NET "DS18B20" PULLUP;
