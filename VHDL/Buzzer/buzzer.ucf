@@ -1,0 +1,7 @@
+NET "clk"  LOC = "P184"  ;
+
+
+
+
+
+NET "miao_out"  LOC = "p123"  ;
