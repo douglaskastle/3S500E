@@ -1,0 +1,39 @@
+NET "clk" LOC = "P184" ;
+
+NET "rst" LOC = "P101" ;
+
+NET "scl"  LOC = "p76"  ;
+NET "sda"  LOC = "p75"  ;
+
+NET "en[0]"  LOC = "p116"  ;
+NET "en[1]"  LOC = "p113"  ;
+NET "seg_data[0]"  LOC = "p119"  ;
+NET "seg_data[1]"  LOC = "p115"  ;
+NET "seg_data[2]"  LOC = "p112"  ;
+NET "seg_data[3]"  LOC = "p108"  ;
+NET "seg_data[4]"  LOC = "p106"  ;
+NET "seg_data[5]"  LOC = "p100"  ;
+NET "seg_data[6]"  LOC = "p98"  ;
+NET "seg_data[7]"  LOC = "p96"  ;
+
+
+NET "data_in[0]"  LOC = "p9"  ;
+NET "data_in[1]"  LOC = "p12"  ;
+NET "data_in[2]"  LOC = "p16"  ;
+NET "data_in[3]"  LOC = "p19"  ;
+NET "wr_input"  LOC = "p153"  ;
+NET "rd_input"  LOC = "p151"  ;
+NET "data_in[0]"  PULLUP;
+NET "data_in[1]"  PULLUP;
+NET "data_in[2]"  PULLUP;
+NET "data_in[3]"  PULLUP;
+NET "wr_input"  PULLUP;
+NET "rd_input"  PULLUP;
+
+
+NET "dgnd[0]"  LOC = "p8"  ;
+NET "dgnd[1]"  LOC = "p11"  ;
+NET "dgnd[2]"  LOC = "p15"  ;
+NET "dgnd[3]"  LOC = "p18"  ;
+NET "dgnd[4]"  LOC = "p160"  ;
+NET "dgnd[5]"  LOC = "p152"  ;
