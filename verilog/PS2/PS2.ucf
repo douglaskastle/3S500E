@@ -1,0 +1,23 @@
+NET "clk" LOC = P184 ;
+
+NET "rst_n" LOC = P101 ;
+
+NET "ps2_data"  LOC = "p119"  ;
+NET "ps2_clk"  LOC = "p116"  ;
+
+NET "rs"  LOC = "p36"  ;
+NET "rw"  LOC = "p40";
+NET "en"  LOC ="p39"   ;
+NET "data[0]"  LOC ="p42"  ;
+NET "data[1]"  LOC = "p41"  ;
+NET "data[2]"  LOC =  "p47"  ;
+NET "data[3]"  LOC = "p45"  ;
+NET "data[4]"  LOC = "p49"  ;
+NET "data[5]"  LOC =  "p48"    ;
+NET "data[6]"  LOC = "p55"  ;
+NET "data[7]"  LOC =  "p50"   ;
+NET "LCD_N"  LOC = "p60"  ;
+NET "LCD_P"  LOC =  "p61"    ;
+
+NET "ps2_data" PULLUP;
+NET "ps2_clk" PULLUP;

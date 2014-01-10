@@ -1,0 +1,15 @@
+NET "clk" LOC = P184 ;
+
+NET "rs"  LOC = "p36"  ;
+NET "rw"  LOC = "p40";
+NET "en"  LOC ="p39"   ;
+NET "dat[0]"  LOC ="p42"  ;
+NET "dat[1]"  LOC = "p41"  ;
+NET "dat[2]"  LOC =  "p47"  ;
+NET "dat[3]"  LOC = "p45"  ;
+NET "dat[4]"  LOC = "p49"  ;
+NET "dat[5]"  LOC =  "p48"    ;
+NET "dat[6]"  LOC = "p55"  ;
+NET "dat[7]"  LOC =  "p50"   ;
+NET "LCD_N"  LOC = "p60"  ;
+NET "LCD_P"  LOC =  "p61"    ;

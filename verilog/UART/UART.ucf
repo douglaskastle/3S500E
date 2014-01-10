@@ -1,0 +1,6 @@
+NET "clk" LOC = P184 ;
+
+NET "rst_n" LOC = P101 ;
+
+NET "rs232_rx"  LOC = "p75"  ;
+NET "rs232_tx"  LOC = "p76"  ;

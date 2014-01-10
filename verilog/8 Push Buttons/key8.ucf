@@ -1,0 +1,30 @@
+NET "clk"  LOC = "p184"  ;
+
+NET "led[0]"  LOC = "p68"  ;
+NET "led[1]"  LOC = "p78"  ;
+NET "led[2]"  LOC = "p83"  ;
+NET "led[3]"  LOC = "p89"  ;
+
+NET "reset"  LOC = "p101"  ;
+
+NET "key[0]"  LOC = "p75"  ;
+NET "key[1]"  LOC = "p76"  ;
+NET "key[2]"  LOC = "p69"  ;
+NET "key[3]"  LOC = "p74"  ;
+NET "key[4]"  LOC = "p64"  ;
+NET "key[5]"  LOC = "p65"  ;
+NET "key[6]"  LOC = "p62"  ;
+NET "key[7]"  LOC = "p63"  ;
+
+# PlanAhead Generated IO constraints 
+
+NET "clk" IOSTANDARD = LVCMOS33;
+
+NET "key[0]"   PULLUP;
+NET "key[1]"   PULLUP;
+NET "key[2]"   PULLUP;
+NET "key[3]"   PULLUP;
+NET "key[4]"   PULLUP;
+NET "key[5]"   PULLUP;
+NET "key[6]"   PULLUP;
+NET "key[7]"   PULLUP;
