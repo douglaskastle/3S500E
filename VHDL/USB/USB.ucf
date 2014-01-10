@@ -1,0 +1,38 @@
+NET "clk"  LOC = "P184"  ;
+
+NET "rst"  LOC = "P101"  ;
+
+NET "led[0]"  LOC = "P68"  ;
+NET "led[1]"  LOC = "P78"  ;
+NET "led[2]"  LOC = "P83"  ;
+NET "led[3]"  LOC = "P89"  ;
+
+
+NET "FIFODATA[0]" LOC = "p33" ;
+NET "FIFODATA[1]" LOC = "p34" ;
+NET "FIFODATA[2]" LOC = "p35" ;
+NET "FIFODATA[3]" LOC = "p36" ;
+NET "FIFODATA[4]" LOC = "p39" ;
+NET "FIFODATA[5]" LOC = "p40" ;
+NET "FIFODATA[6]" LOC = "p41" ;
+NET "FIFODATA[7]" LOC = "p42" ;
+NET "FIFODATA[8]" LOC = "p45" ;
+NET "FIFODATA[9]" LOC = "p47" ;
+NET "FIFODATA[10]" LOC = "p48" ;
+NET "FIFODATA[11]" LOC = "p49" ;
+NET "FIFODATA[12]" LOC = "p50" ;
+NET "FIFODATA[13]" LOC = "p55" ;
+NET "FIFODATA[14]" LOC = "p60" ;
+NET "FIFODATA[15]" LOC = "p61" ;
+
+NET "FLAGA" LOC = "p22" ;
+NET "FLAGB" LOC = "p30" ;
+NET "FLAGC" LOC = "p31" ;
+
+NET "SLOE" LOC = "p23" ;
+NET "SLRD" LOC = "p25" ;
+#NET "SLWR" LOC = "p24" ;
+
+NET "FIFOADR[1]" LOC = "p29" ;
+NET "FIFOADR[0]" LOC = "p28" ;
+
