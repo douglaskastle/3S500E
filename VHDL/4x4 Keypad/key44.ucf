@@ -1,0 +1,39 @@
+NET "GCLKP1"  LOC = "P184"  ;
+
+NET "RESET"  LOC = "P101"  ;
+
+NET "COL[0]"  LOC = "p75"  ;
+NET "COL[1]"  LOC = "p76"  ;
+NET "COL[2]"  LOC = "p69"  ;
+NET "COL[3]"  LOC = "p74"  ;
+NET "ROW[0]"  LOC = "p64"  ;
+NET "ROW[1]"  LOC = "p65"  ;
+NET "ROW[2]"  LOC = "p62"  ;
+NET "ROW[3]"  LOC = "p63"  ;
+
+NET "LED[0]"  LOC = "p119"  ;
+NET "LED[1]"  LOC = "p115"  ;
+NET "LED[2]"  LOC = "p112"  ;
+NET "LED[3]"  LOC = "p108"  ;
+NET "LED[4]"  LOC = "p106"  ;
+NET "LED[5]"  LOC = "p100"  ;
+NET "LED[6]"  LOC = "p98"  ;
+NET "LED[7]"  LOC = "p96"  ;
+
+NET "DIGIT[0]"  LOC = "p107"  ;
+NET "DIGIT[1]"  LOC = "p109"  ;
+NET "DIGIT[0]"  LOC = "p113"  ;
+NET "DIGIT[1]"  LOC = "p116"  ;
+
+# PlanAhead Generated IO constraints 
+
+NET "GCLKP1" IOSTANDARD = LVCMOS33;
+
+NET "COL[0]"   PULLUP;
+NET "COL[1]"   PULLUP;
+NET "COL[2]"   PULLUP;
+NET "COL[3]"   PULLUP;
+NET "ROW[0]"   PULLUP;
+NET "ROW[1]"   PULLUP;
+NET "ROW[2]"   PULLUP;
+NET "ROW[3]"   PULLUP;
